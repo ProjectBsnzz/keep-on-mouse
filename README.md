@@ -2,4 +2,4 @@
 It helps you to keep your mouse moving during inactivity
 
 
-[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/basanez86){:target="_blank" rel="noopener"}
+<a href="https://www.buymeacoffee.com/basanez86" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png height="200"></a>
