@@ -1,5 +1,5 @@
 # KEEP ON MOUSE
-It helps you to keep your mouse moving during inactivity.
+It helps you to keep your mouse moving during inactivity and keeping you as "active" :wink:.
 
 ## Release files
 |File|Description|
